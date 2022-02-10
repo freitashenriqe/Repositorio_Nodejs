@@ -1,1 +1,2 @@
-# Repositorio_Nodejs
+# -Integrando um Backend em Node.js com um Frontend em React para um-E-commerce
+ Ultimo Projeto do Inter Frontend Developer, da DIO.
